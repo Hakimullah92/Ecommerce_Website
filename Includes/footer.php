@@ -68,9 +68,5 @@
    <!-- ===================== Bootstrap JS File Link=================== -->
 
     <script src="../bootstrap/js/bootstrap.js"></script>
-
-    <!-- ================ Custom JS File================== -->
-
-    <script src="../JSFiles/header.js"></script>
 </body>
 </html>
