@@ -20,7 +20,7 @@
             <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">Home /</a>
             <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">Winter Collections /</a>
             <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">linen /</a>
-            <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">diyar_e_dil</a>
+            <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">diyar e dil</a>
         </div>
         <div class="row section-heading mb-3">
             <h1 class="main-heading text-center  fw-light text-dark text-uppercase mt-5 mb-5"><span>diyar_e_dil</span></h1>
