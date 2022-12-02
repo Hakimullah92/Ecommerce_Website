@@ -84,7 +84,7 @@
    </div>
    <div class="col-md-4 col-sm-6 mb-4">
     <div class="image">
-        <a href=""><img src="../images/m6.webp" alt="pic"class="img-fluid w-100"></a>
+        <a href=""><img src="../images/s6.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
     <div class="text">
         <h3 class="text-uppercase fs-4 mt-2 mb-2">sarang m-03: embroidered slub karandi</h3>
