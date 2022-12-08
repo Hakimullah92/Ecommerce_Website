@@ -18,7 +18,7 @@
     <div class="container p-4">
         <div class="links mb-3">
             <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">Home /</a>
-            <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">summer Collections /</a>
+            <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">Winter Collections /</a>
             <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">lawn /</a>
             <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">embroidered lawn collection /</a>
             <a href="" class="text-dark text-decoration-none fs-4 text-uppercase">flora
