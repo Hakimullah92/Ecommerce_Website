@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="../CSSFiles/trackorder.css">
 </head>
 <body>
+<?php
+    include("header.php");
+    ?>
 <section class="tract-order" id="track-order">
     <div class="container">
         <div class="row heading-container">
@@ -46,7 +49,9 @@
     </div>
 </section>
 
-
+<?php
+    include("footer.php");
+    ?>
 
 
     <!-- =============== Ionicons JS Links==================== -->

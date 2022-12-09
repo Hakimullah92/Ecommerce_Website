@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="../CSSFiles/dhanak.css">
 </head>
 <body>
+<?php
+    include("header.php");
+    ?>
     <section class="dhanak" id="dhanak">
     <div class="container p-4">
         <div class="links mb-3">
@@ -155,6 +158,9 @@
 
     </div>
     </section>
+    <?php
+    include("footer.php");
+    ?>
        <!-- =============== Ionicons JS Links==================== -->
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>

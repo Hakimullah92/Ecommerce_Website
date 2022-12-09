@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="../CSSFiles/contact.css">
 </head>
 <body>
+<?php
+    include("header.php");
+    ?>
 <section class="contact" id="contact">
     <div class="container">
         <div class="row heading-container">
@@ -53,7 +56,9 @@
     </div>
 </section>
 
-
+<?php
+    include("footer.php");
+    ?>
 
 
     <!-- =============== Ionicons JS Links==================== -->

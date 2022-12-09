@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="../CSSFiles/dresses.css">
 </head>
 <body>
+<?php
+    include("header.php");
+    ?>
    <section id="dresses" class="dresses">
     <div class="container p-4">
         <div class="row heading">
@@ -118,7 +121,9 @@
         </div>
     </div>
    </section>
-
+   <?php
+    include("footer.php");
+    ?>
 
 
        <!-- ========== ionicons JS Links====================== -->

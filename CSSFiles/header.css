@@ -14,8 +14,7 @@ body {
 }
 .navigation {
   background: #f3deff;
-  /* padding: 1rem 1rem; */
-  z-index: 1;
+  z-index:1;
 }
 .menu {
   background: #301934;

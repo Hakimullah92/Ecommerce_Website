@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="../CSSFiles/home.css">
 </head>
 <body>
+  <?php   
+  include("header.php");
+  ?>
     <!-- ================== Home Section Start=============== -->
     <section id="home" class="home">
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -152,6 +155,9 @@
 </div>
     </section>
     <!-- ================== Home Section End=============== -->
+    <?php   
+  include("footer.php");
+  ?>
     <!-- ========== ionicons JS Links====================== -->
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>

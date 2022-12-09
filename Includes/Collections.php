@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="../CSSFiles/Collections.css">
 </head>
 <body>
+    <?php
+    include("header.php");
+    ?>
 <section class="collections" id="collections">
     <div class="container p-4">
         <div class="heading mb-2">
@@ -243,7 +246,9 @@
     </div>
 </section>
 
-
+<?php
+    include("footer.php");
+    ?>
 
 
 

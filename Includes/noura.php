@@ -14,6 +14,9 @@
     <link rel="stylesheet" href="../CSSFiles/noura.css">
 </head>
 <body>
+<?php   
+  include("header.php");
+  ?>
     <section class="noura" id="noura">
     <div class="container p-4">
         <div class="links mb-3">
@@ -156,10 +159,6 @@
     </div>
    </div>
    </div>
- 
- 
-  
- 
         </div>
         <div class="row mt-3 mb-3">
             <h1 class="text-uppercase text-center mb-2" style="color:rgb(5, 5, 53); font-size:3rem;">looking for more?</h1>
@@ -168,6 +167,10 @@
 
     </div>
     </section>
+    <?php   
+  include("footer.php");
+  ?>
+
        <!-- =============== Ionicons JS Links==================== -->
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>

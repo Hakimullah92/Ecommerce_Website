@@ -11,6 +11,9 @@ html {
 body {
   font-family: "Poppins", sans-serif;
 }
+#collections{
+  padding-top: 5rem;
+}
 .heading{
     position: relative;
 }
