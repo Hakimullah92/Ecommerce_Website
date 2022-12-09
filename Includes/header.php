@@ -40,19 +40,19 @@
 
   <h1 class="text-white text-center text-uppercase">kleren</h1>
   <ul class="menu-list mt-5 text-white">
-    <li class="mb-1"><a href="" class="menu-link text-white text-decoration-none fs-2 fw-light">HOME</a></li>
+    <li class="mb-1"><a href="home.php" class="menu-link text-white text-decoration-none fs-2 fw-light">HOME</a></li>
     <li class="nav-item dropdown mb-1">
           <a class="nav-link dropdown-toggle menu-link text-white text-decoration-none fs-2 fw-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             NEW ARRIVAL
           </a>
           <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">SHAFAQ: EMB PEACH LEATHER</a></li>
-            <li><a class="dropdown-item" href="#">DASTOOR: EMB PEACH LEATHER</a></li>
-            <li><a class="dropdown-item" href="#">DHANAK:EMB DHANAK</a></li>
-            <li><a class="dropdown-item" href="#">DIYAT-E-DIL: EMB DHANAK</a></li>
-            <li><a class="dropdown-item" href="#">MEHR-O-MAH: EMb SLUB KARANDI</a></li>
-            <li><a class="dropdown-item" href="#">SARANG: EMB SLUB KARANDI</a></li>
-            <li><a class="dropdown-item" href="#">TEHZEEB: EMB SLUB KARANDI</a></li>
+            <li><a class="dropdown-item" href="shafaq.php">SHAFAQ: EMB PEACH LEATHER</a></li>
+            <li><a class="dropdown-item" href="dastoor.php">DASTOOR: EMB PEACH LEATHER</a></li>
+            <li><a class="dropdown-item" href="dhanak.php">DHANAK:EMB DHANAK</a></li>
+            <li><a class="dropdown-item" href="diyar_e_dil.php">DIYAT-E-DIL: EMB DHANAK</a></li>
+            <li><a class="dropdown-item" href="mehr_o_maah.php">MEHR-O-MAH: EMb SLUB KARANDI</a></li>
+            <li><a class="dropdown-item" href="sarang.php">SARANG: EMB SLUB KARANDI</a></li>
+            <li><a class="dropdown-item" href="tehzeeb.php">TEHZEEB: EMB SLUB KARANDI</a></li>
           </ul>
         </li>
 
@@ -61,14 +61,14 @@
             SUMMER COLLECTIONS
           </a>
           <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">ELEGENZA: EMB. & PRINTED LAWN</a></li>
-            <li><a class="dropdown-item" href="#">QALB: EMBROIDERED LAWN</a></li>
-            <li><a class="dropdown-item" href="#">IBTIDA: EMBROIDERED LAWN</a></li>
-            <li><a class="dropdown-item" href="#">SURKHRU: EMBROIDERED LAWN</a></li>
-            <li><a class="dropdown-item" href="#">NAQSH: EMBROIDERED LAWN
+            <li><a class="dropdown-item" href="elegenza.php">ELEGENZA: EMB. & PRINTED LAWN</a></li>
+            <li><a class="dropdown-item" href="qalb.php">QALB: EMBROIDERED LAWN</a></li>
+            <li><a class="dropdown-item" href="ibtida.php">IBTIDA: EMBROIDERED LAWN</a></li>
+            <li><a class="dropdown-item" href="shrkhru.php">SURKHRU: EMBROIDERED LAWN</a></li>
+            <li><a class="dropdown-item" href="naqsh.php">NAQSH: EMBROIDERED LAWN
             </a></li>
-            <li><a class="dropdown-item" href="#">UNS: PRINTED & EMBROIDERED LAWN</a></li>
-            <li><a class="dropdown-item" href="#">FARDA: EMBROIDERED SWISS LAWN</a></li>
+            <li><a class="dropdown-item" href="uns.php">UNS: PRINTED & EMBROIDERED LAWN</a></li>
+            <li><a class="dropdown-item" href="farda.php">FARDA: EMBROIDERED SWISS LAWN</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown mb-1">
@@ -76,20 +76,18 @@
             WINTER COLLECTIONS
           </a>
           <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">FLORA: EMB VISCOSE</a></li>
-            <li><a class="dropdown-item" href="#">IMROZ: SILK VISCOSE</a></li>
-            <li><a class="dropdown-item" href="#">HERMOSA: EMBROIDERED LINEN</a></li>
-            <li><a class="dropdown-item" href="#">AROMA: EMBROIDERED VISCOSE</a></li>
-            <li><a class="dropdown-item" href="#">NOURA: EMBROIDERED KHADDAR
+            <li><a class="dropdown-item" href="flora.php">FLORA: EMB VISCOSE</a></li>
+            <li><a class="dropdown-item" href="imroz.php">IMROZ: SILK VISCOSE</a></li>
+            <li><a class="dropdown-item" href="hermosa.php">HERMOSA: EMBROIDERED LINEN</a></li>
+            <li><a class="dropdown-item" href="aroma.php">AROMA: EMBROIDERED VISCOSE</a></li>
+            <li><a class="dropdown-item" href="noura.php">NOURA: EMBROIDERED KHADDAR
             </a></li>
-            <li><a class="dropdown-item" href="#">UNS: PRINTED & EMBROIDERED LAWN</a></li>
-            <li><a class="dropdown-item" href="#">FARDA: EMBROIDERED SWISS LAWN</a></li>
           </ul>
         </li>
-    <li class="mb-1 w-100"><a href="" class="menu-link text-white text-decoration-none fs-2 fw-light">VIEW ALL COLLECTIONS</a></li>
-    <li class="mb-1 w-100"><a href="" class="menu-link text-white text-decoration-none fs-2 fw-light">VIEW ALL DRESSES</a></li>
-    <li class="mb-1 w-100"><a href="" class="menu-link text-white text-decoration-none fs-2 fw-light">TRACK YOUR ORDER</a></li>
-    <li class="mb-1 w-100"><a href="" class="menu-link text-white text-decoration-none fs-2 fw-light">CONTACT US</a></li>
+    <li class="mb-1 w-100"><a href="collections.php" class="menu-link text-white text-decoration-none fs-2 fw-light">VIEW ALL COLLECTIONS</a></li>
+    <li class="mb-1 w-100"><a href="dresses.php" class="menu-link text-white text-decoration-none fs-2 fw-light">VIEW ALL DRESSES</a></li>
+    <li class="mb-1 w-100"><a href="trackorder.php" class="menu-link text-white text-decoration-none fs-2 fw-light">TRACK YOUR ORDER</a></li>
+    <li class="mb-1 w-100"><a href="contact.php" class="menu-link text-white text-decoration-none fs-2 fw-light">CONTACT US</a></li>
   </ul>
 
 
