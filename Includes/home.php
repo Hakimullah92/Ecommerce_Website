@@ -7,11 +7,11 @@
     <title>Home</title>
     <!-- ============== Bootstrap CSS File Link============= -->
 
-    <link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
+    <!-- <link rel="stylesheet" href="../bootstrap/css/bootstrap.css"> -->
 
     <!-- ================= Custom CSS File=================== -->
 
-    <link rel="stylesheet" href="../CSSFiles/home.css">
+    <!-- <link rel="stylesheet" href="../CSSFiles/home.css"> -->
 </head>
 <body>
   <?php   
@@ -159,11 +159,11 @@
   include("footer.php");
   ?>
     <!-- ========== ionicons JS Links====================== -->
-<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+<!-- <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script> -->
 
    <!-- ===================== Bootstrap JS File Link=================== -->
 
-    <script src="../bootstrap/js/bootstrap.js"></script>
+    <!-- <script src="../bootstrap/js/bootstrap.js"></script> -->
 </body>
 </html>
