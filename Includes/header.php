@@ -48,47 +48,46 @@
           <a class="nav-link dropdown-toggle menu-link text-white text-decoration-none fs-2 fw-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             NEW ARRIVAL
           </a>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="shafaq.php">SHAFAQ: EMB PEACH LEATHER</a></li>
-            <li><a class="dropdown-item" href="dastoor.php">DASTOOR: EMB PEACH LEATHER</a></li>
-            <li><a class="dropdown-item" href="dhanak.php">DHANAK:EMB DHANAK</a></li>
-            <li><a class="dropdown-item" href="diyar_e_dil.php">DIYAT-E-DIL: EMB DHANAK</a></li>
-            <li><a class="dropdown-item" href="mehr_o_maah.php">MEHR-O-MAH: EMb SLUB KARANDI</a></li>
-            <li><a class="dropdown-item" href="sarang.php">SARANG: EMB SLUB KARANDI</a></li>
-            <li><a class="dropdown-item" href="tehzeeb.php">TEHZEEB: EMB SLUB KARANDI</a></li>
+          <ul class="dropdown-menu position-relative">
+          <li><a class="dropdown-item fs-3 fw-light text-dark mb-2" href="shafaq.php">SHAFAQ: EMB PEACH LEATHER</a></li>
+          <li><a class="dropdown-item fs-3 fw-light text-dark" href="shafaq.php">Diyar-E-DIL: EMB PEACH LEATHER</a></li>
+            
           </ul>
-        </li>
+</li>
+    <li class="nav-item dropdown mb-1">
+          <a class="nav-link dropdown-toggle menu-link text-white text-decoration-none fs-2 fw-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            WINTER COLLECTIONS
+          </a>
+          <ul class="dropdown-menu position-relative">
+          <li><a class="dropdown-item fs-3 fw-light text-dark mb-2" href="mehr_o_maah.php">MEHR-O-MAAH: EMB SLUB KARANDI</a></li>
+          <li><a class="dropdown-item fs-3 fw-light text-dark" href="tehzeeb.php">TEHZEEB: EMB SLUB KARANDI </a></li>
+          <li><a class="dropdown-item fs-3 fw-light text-dark" href="dhanak.php">DHANAK: EMB DHANAK </a></li>
+          <li><a class="dropdown-item fs-3 fw-light text-dark" href="imroz.php">IMROZ: SILK VISCOSE  </a></li>
+          <li><a class="dropdown-item fs-3 fw-light text-dark" href="hermosa.php">HERMOSA: EMBROIDERED LINEN</a></li>
+          <li><a class="dropdown-item fs-3 fw-light text-dark" href="noura.php">NOURA: EMBROIDERED KHADDAR</a></li>
+            
+          </ul>
+</li>
+
 
         <li class="nav-item dropdown mb-1">
           <a class="nav-link dropdown-toggle menu-link text-white text-decoration-none fs-2 fw-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             SUMMER COLLECTIONS
           </a>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="elegenza.php">ELEGENZA: EMB. & PRINTED LAWN</a></li>
-            <li><a class="dropdown-item" href="qalb.php">QALB: EMBROIDERED LAWN</a></li>
-            <li><a class="dropdown-item" href="ibtida.php">IBTIDA: EMBROIDERED LAWN</a></li>
-            <li><a class="dropdown-item" href="shrkhru.php">SURKHRU: EMBROIDERED LAWN</a></li>
-            <li><a class="dropdown-item" href="naqsh.php">NAQSH: EMBROIDERED LAWN
+          <ul class="dropdown-menu position-relative">
+            <li><a class="dropdown-item fs-3 fw-light text-dark" href="eleganza.php">ELEGENZA: EMB. & PRINTED LAWN</a></li>
+            <li><a class="dropdown-item fs-3 fw-light text-dark" href="qalb.php">QALB: EMBROIDERED LAWN</a></li>
+            <li><a class="dropdown-item fs-3 fw-light text-dark" href="ibtida.php">IBTIDA: EMBROIDERED LAWN</a></li>
+            <li><a class="dropdown-item fs-3 fw-light text-dark" href="surkhru.php">SURKHRU: EMBROIDERED LAWN</a></li>
+            <li><a class="dropdown-item fs-3 fw-light text-dark" href="naqsh.php">NAQSH: EMBROIDERED LAWN
             </a></li>
-            <li><a class="dropdown-item" href="uns.php">UNS: PRINTED & EMBROIDERED LAWN</a></li>
-            <li><a class="dropdown-item" href="farda.php">FARDA: EMBROIDERED SWISS LAWN</a></li>
+            <li><a class="dropdown-item fs-3 fw-light text-dark" href="uns.php">UNS: PRINTED & EMBROIDERED LAWN</a></li>
+            <li><a class="dropdown-item fs-3 fw-light text-dark" href="farda.php">FARDA: EMBROIDERED SWISS LAWN</a></li>
           </ul>
         </li>
-        <li class="nav-item dropdown mb-1">
-          <a class="nav-link dropdown-toggle menu-link text-white text-decoration-none fs-2 fw-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            WINTER COLLECTIONS
-          </a>
-          <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="flora.php">FLORA: EMB VISCOSE</a></li>
-            <li><a class="dropdown-item" href="imroz.php">IMROZ: SILK VISCOSE</a></li>
-            <li><a class="dropdown-item" href="hermosa.php">HERMOSA: EMBROIDERED LINEN</a></li>
-            <li><a class="dropdown-item" href="aroma.php">AROMA: EMBROIDERED VISCOSE</a></li>
-            <li><a class="dropdown-item" href="noura.php">NOURA: EMBROIDERED KHADDAR
-            </a></li>
-          </ul>
-        </li>
+      
     <li class="mb-1 w-100"><a href="collections.php" class="menu-link text-white text-decoration-none fs-2 fw-light">VIEW ALL COLLECTIONS</a></li>
-    <li class="mb-1 w-100"><a href="dresses.php" class="menu-link text-white text-decoration-none fs-2 fw-light">VIEW ALL DRESSES</a></li>
+    <li class="mb-1 w-100"><a href="View_all_dresses.php" class="menu-link text-white text-decoration-none fs-2 fw-light">VIEW ALL DRESSES</a></li>
     <li class="mb-1 w-100"><a href="trackorder.php" class="menu-link text-white text-decoration-none fs-2 fw-light">TRACK YOUR ORDER</a></li>
     <li class="mb-1 w-100"><a href="contact.php" class="menu-link text-white text-decoration-none fs-2 fw-light">CONTACT US</a></li>
   </ul>
@@ -109,12 +108,6 @@
 </header>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
-   <!-- ===================== Bootstrap JS File Link=================== -->
-
-    <!-- <script src="../bootstrap/js/bootstrap.js"></script> -->
-    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> -->
-
 
     <!-- ================ Custom JS File================== -->
 

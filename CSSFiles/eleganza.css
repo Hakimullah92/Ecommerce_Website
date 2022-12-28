@@ -49,5 +49,22 @@ body {
     background:rgb(5, 5, 53);
     transition: all 0.23s ease-in-out;
 }
+.sale {
+  display: inline-block;
+  text-align: center;
+  padding-top: 1.5rem;
+  text-decoration: none;
+  font-size: 1.4rem;
+  width: 5rem;
+  border-radius: 50%;
+  background: #301934;
+  height: 5rem;
+  color: #fff;
+  text-transform: uppercase;
+  position: absolute;
+  top: -4px;
+  right: -1px;
+}
+
 
 

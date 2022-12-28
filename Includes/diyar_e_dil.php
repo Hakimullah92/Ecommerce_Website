@@ -32,7 +32,7 @@
 
 
         <div class="row mb-4">
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl1.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -41,8 +41,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl2.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -51,8 +52,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl3.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -61,11 +63,12 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
         </div>
 
         <div class="row mb-4 mt-5">
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl4.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -74,8 +77,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl5.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -84,8 +88,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl6.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -94,11 +99,12 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
         </div>
 
         <div class="row mb-4">
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl7.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -107,8 +113,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl8.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -117,8 +124,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4" position-relative>
     <div class="image">
         <a href=""><img src="../images/dl9.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -127,8 +135,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl10.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -137,8 +146,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl11.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -147,8 +157,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl12.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -157,8 +168,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl13.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -167,8 +179,9 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
-   <div class="col-md-4 col-sm-6 mb-4">
+   <div class="col-md-4 col-sm-6 mb-4 position-relative">
     <div class="image">
         <a href=""><img src="../images/dl14.jpg" alt="pic"class="img-fluid w-100"></a>
     </div>
@@ -177,6 +190,7 @@
         <p class="text-uppercase fs-3 text-secondary mb-4"><span class="text-decoration-line-through">rs 7600.00  </span><sub class="text-dark text-decoration-underline fs-3 fw-bold"> RS6,640.00</sub></p>
         <a href="" class="cart text-white text-decoration-none text-capitalize fs-3 fw-light">add to cart</a>
     </div>
+    <a href="#" class="sale">Sale!</a>
    </div>
   
  

@@ -55,3 +55,6 @@ body {
   background: crimson;
   color: #212529;
 }
+.drodown-menu{
+  background: none !important;; 
+}

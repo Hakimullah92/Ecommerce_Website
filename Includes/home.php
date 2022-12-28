@@ -5,13 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
-    <!-- ============== Bootstrap CSS File Link============= -->
-
-    <!-- <link rel="stylesheet" href="../bootstrap/css/bootstrap.css"> -->
 
     <!-- ================= Custom CSS File=================== -->
 
-    <!-- <link rel="stylesheet" href="../CSSFiles/home.css"> -->
+    <link rel="stylesheet" href="../CSSFiles/home.css">
 </head>
 <body>
   <?php   
@@ -152,18 +149,20 @@
     </div>
   </div>
 </div>
+
+<details class="fs-3 mt-3">
+  <summary>Read More</summary>
+  <p class="fs-4 mt-3 mb-5">Specializing in Eastern-wear, we have stocked eye-catching designs, trouser styles, unique color combinations, multiple categories to choose from, best linen dresses and everything you need to make an ever-lasting impact. We are proud to announce that our <b>women clothing store online</b> has a well-maintained market reputation and our clients trust us with closed eyes for delivering the committed quality and reliable customer service for their queries and issues, unlike most digital clothing stores.</p>
+
+  <p class="fs-4 mt-3 mb-5">With several years of running our business of women clothing online, we have now introduced a wide collection under various categories, for example, embroidered collection, digital prints, premium, casual, festive designs and a lot more. All these categories have event-appropriate dress designs, weather-friendly fabric and premium level quality within a very reasonable price range, that makes us a unique and committed to excellence women clothing store. Along with our designs and efficient customer service, we treat our clients with time-to-time discount offers, clearance sales and off-season sale offers. </p>
+
+  <p class="mt-3 fs-4">Our in-house designed dresses will make many heads turn at every event you go to. Each collection has its own kind of vibe, keeping sophistication and modesty in common. Shop our latest dress designs from our exclusive collections, Surkhru, Dastak, Vasl, Naqsh, Qalb, Uns, as per your taste and choice. Never miss out any update from us and become a part of our large and happy customer base through our social media pages and subscribe to our newsletter for regular notifications about seasonal sales and new collections.</p>
+</details>
 </div>
     </section>
     <!-- ================== Home Section End=============== -->
     <?php   
   include("footer.php");
   ?>
-    <!-- ========== ionicons JS Links====================== -->
-<!-- <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script> -->
-
-   <!-- ===================== Bootstrap JS File Link=================== -->
-
-    <!-- <script src="../bootstrap/js/bootstrap.js"></script> -->
 </body>
 </html>
